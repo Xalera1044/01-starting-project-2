@@ -6,3 +6,7 @@
   padding: 1rem 2rem;
   cursor: pointer;
 }
+
+.goal-1 {
+  background-color: red;
+}
